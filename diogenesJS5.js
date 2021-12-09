@@ -420,65 +420,65 @@ function printOutput() {
  
   
   if (CriteriaVar1 == 1) {
-  var data1 = fetch("https://github.com/sladebomber/sladebomber.github.io/blob/main/Diogenes%20JSON%20Comment%20Banks/structure_comments.json")
+  var data1 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/structure_comments.json")
   }
 
   if (CriteriaVar1 == 2){
-  data1 = fetch("https://github.com/sladebomber/sladebomber.github.io/blob/main/Diogenes%20JSON%20Comment%20Banks/demonstration_of_knowledge_comments.json")
+  data1 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/demonstration_of_knowledge_comments.json")
   }
 
   if (CriteriaVar1 == 3){
-  data1 = fetch("https://github.com/sladebomber/sladebomber.github.io/blob/main/Diogenes%20JSON%20Comment%20Banks/engagement_with_theory_comments.json")
+  data1 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/engagement_with_theory_comments.json")
   }
   if (CriteriaVar1 == 4){
-  data1 = fetch("https://github.com/sladebomber/sladebomber.github.io/blob/main/Diogenes%20JSON%20Comment%20Banks/writing_comments.json")
+  data1 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/writing_comments.json")
   }
 
 
   if (CriteriaVar2 == 1) {
-  var data2 = fetch("https://github.com/sladebomber/sladebomber.github.io/blob/main/Diogenes%20JSON%20Comment%20Banks/structure_comments.json")
+  var data2 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/structure_comments.json")
     }
   
   if (CriteriaVar2 == 2){
-  data2 = fetch("https://github.com/sladebomber/sladebomber.github.io/blob/main/Diogenes%20JSON%20Comment%20Banks/demonstration_of_knowledge_comments.json")
+  data2 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/demonstration_of_knowledge_comments.json")
   }
 
   if (CriteriaVar2 == 3){
-  data2 = fetch("https://github.com/sladebomber/sladebomber.github.io/blob/main/Diogenes%20JSON%20Comment%20Banks/engagement_with_theory_comments.json")
+  data2 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/engagement_with_theory_comments.json")
   }
   if (CriteriaVar2 == 4){
-  data2 = fetch("https://github.com/sladebomber/sladebomber.github.io/blob/main/Diogenes%20JSON%20Comment%20Banks/writing_comments.json")
+  data2 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/writing_comments.json")
   }
 
   if (CriteriaVar3 == 1) {
-  var data3 = fetch("https://github.com/sladebomber/sladebomber.github.io/blob/main/Diogenes%20JSON%20Comment%20Banks/structure_comments.json")
+  var data3 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/structure_comments.json")
   }
 
   if (CriteriaVar3 == 2){
-  data3 = fetch("https://github.com/sladebomber/sladebomber.github.io/blob/main/Diogenes%20JSON%20Comment%20Banks/demonstration_of_knowledge_comments.json")
+  data3 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/demonstration_of_knowledge_comments.json")
   }
 
   if (CriteriaVar3 == 3){
-  data3 = fetch("https://github.com/sladebomber/sladebomber.github.io/blob/main/Diogenes%20JSON%20Comment%20Banks/engagement_with_theory_comments.json")
+  data3 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/engagement_with_theory_comments.json")
   }
   if (CriteriaVar3 == 4){
-  data3 = fetch("https://github.com/sladebomber/sladebomber.github.io/blob/main/Diogenes%20JSON%20Comment%20Banks/writing_comments.json")
+  data3 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/writing_comments.json")
   }
 
   
   if (CriteriaVar4 == 1) {
-  var data4 = fetch("https://github.com/sladebomber/sladebomber.github.io/blob/main/Diogenes%20JSON%20Comment%20Banks/structure_comments.json")
+  var data4 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/structure_comments.json")
     }
   
   if (CriteriaVar4 == 2){
-  data4 = fetch("https://github.com/sladebomber/sladebomber.github.io/blob/main/Diogenes%20JSON%20Comment%20Banks/demonstration_of_knowledge_comments.json")
+  data4 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/demonstration_of_knowledge_comments.json")
   }
 
   if (CriteriaVar4 == 3){
-  data4 = fetch("https://github.com/sladebomber/sladebomber.github.io/blob/main/Diogenes%20JSON%20Comment%20Banks/engagement_with_theory_comments.json")
+  data4 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/engagement_with_theory_comments.json")
   }
   if (CriteriaVar4 == 4){
-  data4 = fetch("https://github.com/sladebomber/sladebomber.github.io/blob/main/Diogenes%20JSON%20Comment%20Banks/writing_comments.json")
+  data4 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/writing_comments.json")
   }
 
 
@@ -601,7 +601,7 @@ if (SliderVar4 == 2){
   ///////////////////////////////////////
 
   refVar = checkReferencing()
-  var refData = fetch("https://github.com/sladebomber/sladebomber.github.io/blob/main/Diogenes%20JSON%20Comment%20Banks/referencing.json")
+  var refData = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/referencing.json")
 
   if (refVar == 1) {
     refData
@@ -617,7 +617,7 @@ if (SliderVar4 == 2){
   ///////////////////////////////////
 
   var finalCommentVar = finalComment()
-  var finalCommentData = fetch("https://github.com/sladebomber/sladebomber.github.io/blob/main/Diogenes%20JSON%20Comment%20Banks/last_comments.json")
+  var finalCommentData = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/last_comments.json")
 
   if (finalCommentVar == 1){
   finalCommentData
@@ -631,7 +631,7 @@ if (SliderVar4 == 2){
     }
 
   var lateSubmissionCheck = latePenalty()
-  var latePenaltyData = fetch("https://github.com/sladebomber/sladebomber.github.io/blob/main/Diogenes%20JSON%20Comment%20Banks/latesubmission.json") 
+  var latePenaltyData = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/latesubmission.json") 
   if (lateSubmissionCheck == 1){
     latePenaltyData
     .then(response => response.json())
