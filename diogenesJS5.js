@@ -424,7 +424,7 @@ function printOutput() {
   }
 
   if (CriteriaVar1 == 2){
-  data1 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/demonstration_of_knowledge_comments.json")
+  data1 = fetch("https://api.jsonbin.io/b/61b1911101558c731cd0dfa0")
   }
 
   if (CriteriaVar1 == 3){
@@ -440,7 +440,7 @@ function printOutput() {
     }
   
   if (CriteriaVar2 == 2){
-  data2 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/demonstration_of_knowledge_comments.json")
+  data2 = fetch("https://api.jsonbin.io/b/61b1911101558c731cd0dfa0")
   }
 
   if (CriteriaVar2 == 3){
@@ -455,7 +455,7 @@ function printOutput() {
   }
 
   if (CriteriaVar3 == 2){
-  data3 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/demonstration_of_knowledge_comments.json")
+  data3 = fetch("https://api.jsonbin.io/b/61b1911101558c731cd0dfa0")
   }
 
   if (CriteriaVar3 == 3){
@@ -471,7 +471,7 @@ function printOutput() {
     }
   
   if (CriteriaVar4 == 2){
-  data4 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/demonstration_of_knowledge_comments.json")
+  data4 = fetch("https://api.jsonbin.io/b/61b1911101558c731cd0dfa0")
   }
 
   if (CriteriaVar4 == 3){
