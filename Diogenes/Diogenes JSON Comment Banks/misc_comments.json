@@ -1,0 +1,23 @@
+
+{"Criteria":"Placeholder",
+    "Exceptional":[
+      "This is a placeholder comment at the Exceptional level. ",
+      "This is also a placeholder comment at the Exceptional level. "],
+
+    "Comprehensive":[
+      "This is a placeholder comment at the Comprehensive level. ",
+      "This is also a placeholder comment at the Comprehensive level. "],
+
+    "Developed":[
+      "This is a placeholder comment at the Developed level. ",
+      "This is also a placeholder comment at the Developed level. "],
+
+    "Developing":[
+      "This is a placeholder comment at the Developing level. ",
+      "This is also a placeholder comment at the Developing level. "],
+
+    "Needs Improvement":[
+      "This is a placeholder comment at the Needs Improvement level. ",
+      "This is also a placeholder comment at the Needs Improvement level. "]
+
+}

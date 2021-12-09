@@ -1,0 +1,39 @@
+
+{
+  "Criteria":"Writing",
+  "Exceptional":[
+    "The paper was exceptionally well-written, demonstrating a commanding ability to express ideas and communicate meaning in an effective manner. \n",
+    "The paper featured exceptional writing; you have demonstrated a commanding ability to express ideas and communicate meaning in an effective manner. \n",
+    "The paper was extremely well-written, communicating its ideas clearly and concisely without oversimplifying complex thoughts. \n"
+  ],
+
+  "Comprehensive":[
+    "The paper was comprehensively well-written, demonstrating the ability to express ideas and communicate meaning in an effective manner. \n",
+    "The paper demonstrated comprehensive writing ability, with complex ideas being effectively communicated to the reader. \n",
+    "Ideas in the paper were comprehensively expressed, clearly communicating the author's meaning and intent. \n",
+    "There was a comprehensive expression of ideas with highly nuanced writing. Your meaning and intent were cleverly expressed, demonstrating an effective grasp of writing techniques. \n"
+  ],
+
+  "Developed":[
+    "The paper was written to an acceptable level, with ideas and meaning mostly well communicated. Small improvements could be made to improve the overall clarity of the argument. \n",
+    "The paper was written to a reasonably developed level, effectively demonstrating a competent grasp of writing techniques. Some small improvements could be made to improve the overall expression of the argument. \n",
+    "Ideas in the paper were expressed at a developed level, mostly communicating the author's meaning and intent with effectiveness. There were some occasional moments where additional clarity would have been beneficial. \n",
+    "The writing in the paper was fairly well developed, mostly illustrating your meaning and intent effectively. There may have been small mistakes, or other occasional moments where further expansion or more clarity was needed in the writing. \n",
+    "The writing in the paper was, for the most part, relatively developed. Meaning and intent were generally well communicated, allowing you to showcase your understanding of the topic, although there may have been minor or occasional moments where additional clarity was needed. \n",
+    "Your writing style in the paper was fairly well developed, with meaning and intent generally well communicated throughout the response. There may have been occasional moments where greater clarity or additional editing might have improved your communication, although this was a relatively minor concern. \n",
+    "The paper demonstrated a developed expression of ideas and clarity of argument, with ideas generally understandable and well communicated. Small errors in the paper could have been fixed with additional time spent proofreading and editing. \n"
+  ],
+
+  "Developing":[
+    "The paper demonstrated a developing expression of ideas and clarity of argument, with ideas generally understandable and well communicated. Additional time spent editing might have improved the expression of the author's meaning and intent. \n",
+    "Ideas in the paper were expressed at a developing level; there were instances in which the author's meaning and intent were unclear. Additional time spent editing could improve this aspect. \n",
+    "There was a developing expression of ideas, however the argument may have benefited from additional nuance and careful writing. At times, the author's meaning and intent were not completely clear, with the expression either confusing or illogical. \n",
+    "The paper was written to a developing level, with additional care in the communication and expression of ideas required. Small mistakes or confusing expression may have detracted from the overall comprehensibility of the argument; additional time spent editing and proofreading can be valuable to overcome this problem. \n"
+    
+  ],
+
+  "NeedsImprovement":[
+    "The paper did not demonstrate a sufficiently developed expression of ideas or clarity of argument. Several sections required re-reading in order to fully glean the author's points. \n",
+    "The paper did not fully or effectively demonstrate sufficient clarity in writing and argument. The paper required significant editing in order to express the author's ideas and communicate meaning effectively to the reader. \n"
+  ]
+}

@@ -1,0 +1,48 @@
+{"Criteria": "Sentiment Comments",
+    
+    "Excellent": [
+        "This was an excellent submission to the subject, demonstrating clever writing and clear proficiency in the subject matter. \n",
+        "This was a great submission to the subject, indicating clear proficiency of the subject matter, generally cleverly expressed. \n",
+        "This was an extremely effective piece of writing, demonstrating clear proficiency of the subject matter and content. \n",
+        "This was a very effective piece of writing, suggesting clear proficiency in both the subject matter and content, as well careful time spent researching, crafting and writing the response. \n",
+        "This was a highly effective piece of writing, indicating a demonstrable proficiency in the subject matter and content. \n",
+        "This was a compelling piece of writing and a valuable submission to the subject, demonstrating proficiency and competency in the subject matter. \n",
+        "This was a great submission, demonstrating a significant competency in the particulars of the subject matter. \n"
+
+    ],
+    
+    
+    "Persuasive": [
+        "This was a persuasive essay, swaying the reader to your point of view through proper application of logic, evidence and argument. \n",
+        "This was a very persuasive essay, demonstrating the effective use of logic, evidence and argument to sway the reader to your point of view. \n",
+        "This essay was highly persuasive, featuring a highly effective use of logic, evidence and argument which swayed the reader to your point of view. \n",
+        "This was an excellent submission to the subject, featuring a highly persuasive style of writing reinforced with logic, evidence and argument. \n",
+        "This paper was extremely persuasive, featuring a pronounced application of logic, reasoning, evidence and argument in order to sway the reader to your perspective. \n",
+        "This was a highly persuasive submission, demonstrating a pronounced ability to apply logic, evidence, reasoning and argument in order to convince the reader of your point of view. \n"
+        
+    ],
+    
+    "Interesting": [
+        "This was an interesting submission, being mostly effective in addressing the topic, however also featuring some quirks and writing decisions that were questionable. \n",
+        "This was an interesting submission. The response was mostly effective in addressing the topic, however there were also some small quirks or writing decisions that could have been revised. \n",
+        "This was an interesting submission, being generally effective in providing an answer to the topic, yet also featuring some quirks, irregularities of writing decisions that may have detracted from the overall effectiveness of the paper. \n"
+    ],
+    
+    "Reasonable": [
+        "This was a reasonably developed submission, providing a generally acceptable response to all of the key criteria of the assessment. \n",
+        "This was a reasonably developed submission, being mostly effective in terms of argument, reasoning, evidence and logic. \n",
+        "This was a generally reasonable submission to the subject, demonstrating mostly effective use of logic, argument, reasoning and evidence. \n",
+        "This was a reasonably developed submission to the subject, indicating time spent researching, planning and writing out the response. \n",
+        "This was a suitable well developed submission to the subject, indicating proficiency across most areas of the assessment criteria. \n",
+        "This was a reasonably developed submission to the topic, indicating sufficient competency in the major areas of the subject. \n"
+        
+
+    ],
+    
+    "Problematic": [
+        "This was a problematic essay, for a number of reasons. \n",
+        "This was a good attempt, however the paper featured a number of significant problems which needed to be addressed. \n"
+
+    ]
+
+}
