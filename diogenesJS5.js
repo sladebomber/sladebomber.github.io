@@ -376,7 +376,7 @@ function printOutput() {
   var sentimentVar = checkSentiment()
 
 
-  var SentimentJSON = fetch("http://192.168.1.117/Diogenes JSON Comment Bank/opening_comments.json")
+  var SentimentJSON = fetch("http://192.168.1.117/Diogenes JSON Comment Banks/opening_comments.json")
 
   if (sentimentVar == 1){
     SentimentJSON
@@ -428,10 +428,10 @@ function printOutput() {
   }
 
   if (CriteriaVar1 == 3){
-  data1 = fetch("http://192.168.1.117/Diogenes JSON Comment Bank/engagement_with_theory_comments.json")
+  data1 = fetch("http://192.168.1.117/Diogenes JSON Comment Banks/engagement_with_theory_comments.json")
   }
   if (CriteriaVar1 == 4){
-  data1 = fetch("http://192.168.1.117/Diogenes JSON Comment Bank/writing_comments.json")
+  data1 = fetch("http://192.168.1.117/Diogenes JSON Comment Banks/writing_comments.json")
   }
 
 
@@ -444,10 +444,10 @@ function printOutput() {
   }
 
   if (CriteriaVar2 == 3){
-  data2 = fetch("http://192.168.1.117/Diogenes JSON Comment Bank/engagement_with_theory_comments.json")
+  data2 = fetch("http://192.168.1.117/Diogenes JSON Comment Banks/engagement_with_theory_comments.json")
   }
   if (CriteriaVar2 == 4){
-  data2 = fetch("http://192.168.1.117/Diogenes JSON Comment Bank/writing_comments.json")
+  data2 = fetch("http://192.168.1.117/Diogenes JSON Comment Banks/writing_comments.json")
   }
 
   if (CriteriaVar3 == 1) {
@@ -459,10 +459,10 @@ function printOutput() {
   }
 
   if (CriteriaVar3 == 3){
-  data3 = fetch("http://192.168.1.117/Diogenes JSON Comment Bank/engagement_with_theory_comments.json")
+  data3 = fetch("http://192.168.1.117/Diogenes JSON Comment Banks/engagement_with_theory_comments.json")
   }
   if (CriteriaVar3 == 4){
-  data3 = fetch("http://192.168.1.117/Diogenes JSON Comment Bank/writing_comments.json")
+  data3 = fetch("http://192.168.1.117/Diogenes JSON Comment Banks/writing_comments.json")
   }
 
   
@@ -475,10 +475,10 @@ function printOutput() {
   }
 
   if (CriteriaVar4 == 3){
-  data4 = fetch("http://192.168.1.117/Diogenes JSON Comment Bank/engagement_with_theory_comments.json")
+  data4 = fetch("http://192.168.1.117/Diogenes JSON Comment Banks/engagement_with_theory_comments.json")
   }
   if (CriteriaVar4 == 4){
-  data4 = fetch("http://192.168.1.117/Diogenes JSON Comment Bank/writing_comments.json")
+  data4 = fetch("http://192.168.1.117/Diogenes JSON Comment Banks/writing_comments.json")
   }
 
 
@@ -601,7 +601,7 @@ if (SliderVar4 == 2){
   ///////////////////////////////////////
 
   refVar = checkReferencing()
-  var refData = fetch("http://192.168.1.117/Diogenes JSON Comment Bank/referencing.json")
+  var refData = fetch("http://192.168.1.117/Diogenes JSON Comment Banks/referencing.json")
 
   if (refVar == 1) {
     refData
@@ -617,7 +617,7 @@ if (SliderVar4 == 2){
   ///////////////////////////////////
 
   var finalCommentVar = finalComment()
-  var finalCommentData = fetch("http://192.168.1.117/Diogenes JSON Comment Bank/last_comments.json")
+  var finalCommentData = fetch("http://192.168.1.117/Diogenes JSON Comment Banks/last_comments.json")
 
   if (finalCommentVar == 1){
   finalCommentData
@@ -631,7 +631,7 @@ if (SliderVar4 == 2){
     }
 
   var lateSubmissionCheck = latePenalty()
-  var latePenaltyData = fetch("http://192.168.1.117/Diogenes JSON Comment Bank/latesubmission.json") 
+  var latePenaltyData = fetch("http://192.168.1.117/Diogenes JSON Comment Banks/latesubmission.json") 
   if (lateSubmissionCheck == 1){
     latePenaltyData
     .then(response => response.json())
