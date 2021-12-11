@@ -420,11 +420,11 @@ function printOutput() {
  
   
   if (CriteriaVar1 == 1) {
-  var data1 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/structure_comments.json")
+  var data1 = fetch("http://192.168.1.117:5500/Diogenes%20JSON%20Comment%20Banks/structure_comments.json")
   }
 
   if (CriteriaVar1 == 2){
-  data1 = fetch("https://api.jsonbin.io/b/61b1911101558c731cd0dfa0")
+  data1 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/demonstration_of_knowledge_comments.json")
   }
 
   if (CriteriaVar1 == 3){
@@ -436,11 +436,11 @@ function printOutput() {
 
 
   if (CriteriaVar2 == 1) {
-  var data2 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/structure_comments.json")
+  var data2 = fetch("")
     }
   
   if (CriteriaVar2 == 2){
-  data2 = fetch("https://api.jsonbin.io/b/61b1911101558c731cd0dfa0")
+  data2 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/demonstration_of_knowledge_comments.json")
   }
 
   if (CriteriaVar2 == 3){
@@ -451,11 +451,11 @@ function printOutput() {
   }
 
   if (CriteriaVar3 == 1) {
-  var data3 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/structure_comments.json")
+  var data3 = fetch("")
   }
 
   if (CriteriaVar3 == 2){
-  data3 = fetch("https://api.jsonbin.io/b/61b1911101558c731cd0dfa0")
+  data3 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/demonstration_of_knowledge_comments.json")
   }
 
   if (CriteriaVar3 == 3){
@@ -467,11 +467,11 @@ function printOutput() {
 
   
   if (CriteriaVar4 == 1) {
-  var data4 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/structure_comments.json")
+  var data4 = fetch("")
     }
   
   if (CriteriaVar4 == 2){
-  data4 = fetch("https://api.jsonbin.io/b/61b1911101558c731cd0dfa0")
+  data4 = fetch("http://127.0.0.1:5500/Diogenes%20JSON%20Comment%20Banks/demonstration_of_knowledge_comments.json")
   }
 
   if (CriteriaVar4 == 3){
