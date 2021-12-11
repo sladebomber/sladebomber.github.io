@@ -263,7 +263,7 @@ function changeSliderLabel2(){
   
   }
   if (criteria2Slider.value == "2"){
-    criteria2sliderLabel.innerHTML = "Developing 60% - 69%"
+    criteria2SliderLabel.innerHTML = "Developing 60% - 69%"
   
   }
   if (criteria2Slider.value == "3"){
