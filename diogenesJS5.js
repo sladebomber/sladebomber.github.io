@@ -420,7 +420,7 @@ function printOutput() {
  
   
   if (CriteriaVar1 == 1) {
-  var data1 = fetch("http://192.168.1.117:5500/Diogenes%20JSON%20Comment%20Banks/structure_comments.json")
+  var data1 = fetch("http://192.168.1.117/Diogenes JSON Comment Banks/structure_comments.json")
   }
 
   if (CriteriaVar1 == 2){
@@ -436,7 +436,7 @@ function printOutput() {
 
 
   if (CriteriaVar2 == 1) {
-  var data2 = fetch("")
+  var data2 = fetch("http://192.168.1.117/Diogenes JSON Comment Banks/structure_comments.json")
     }
   
   if (CriteriaVar2 == 2){
@@ -451,7 +451,7 @@ function printOutput() {
   }
 
   if (CriteriaVar3 == 1) {
-  var data3 = fetch("")
+  var data3 = fetch("http://192.168.1.117/Diogenes JSON Comment Banks/structure_comments.json")
   }
 
   if (CriteriaVar3 == 2){
@@ -467,7 +467,7 @@ function printOutput() {
 
   
   if (CriteriaVar4 == 1) {
-  var data4 = fetch("")
+  var data4 = fetch("http://192.168.1.117/Diogenes JSON Comment Banks/structure_comments.json")
     }
   
   if (CriteriaVar4 == 2){
